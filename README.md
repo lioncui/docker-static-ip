@@ -38,7 +38,7 @@ configure duration
 [root@image docker-static-ip]# echo >> "71792e4003d8,docker0,172.17.42.30/16,172.17.42.1" >> containers.cfg
 ```
 
-> formation: <container-id>,<bridge-name>,<ipaddress/netmask>,<gateway>
+> formation: [container-id],[bridge-name],[ipaddress/netmask],[gateway]
 
 check
 ```
