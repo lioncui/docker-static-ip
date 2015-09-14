@@ -3,8 +3,8 @@ hello all.
 This script can configure container's ip-address persistence.
 To confirm before use:
 >
-1. install docker-py package from https://github.com/docker/docker-py
-2. Can be normal use of pipework. (https://github.com/jpetazzo/pipework)
+1. pip install docker-py
+2. yum install bridge-utils -y
 >
 
 ##Demo
